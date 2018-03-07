@@ -40,5 +40,8 @@ npm run build
 anywhere
 ```
 
+## DEMO
+前往[这里](http://eleme.psilocine.cn), F12切换成移动设备模式需要再刷新一次, 否则better-scroll失效
+
 ## eleme seller json
 > https://www.easy-mock.com/mock/5a8bbef0956ed0635799cb7f/example/elemeData
