@@ -1,11 +1,9 @@
 <h3 align='center'>写在前面</h3>
-<p align='center'>
-项目结合了我自己的一些改动, 如果看不懂的话, 可以给我提issue或者发邮件.  
-有帮助到你的话, 不妨star, folk一下哦.最后感谢您的访问.
-</p>
+<p align='center'>项目结合了我自己的一些改动, 如果看不懂的话, 可以给我提issue或者发邮件.</p>
+<p align='center'>如果有帮助到你的话, 不妨star, folk一下哦. 最后感谢您的访问.</p>
 
 ## eleme-seller
-> 基于 vue2 + vue-router3 + es6 +webpack 开发的高仿饿了么商家点餐页面
+> 基于 vue2 + vue-router3 + es6 +webpack 开发的高仿饿了么商家点餐页面. 本人项目将一些冗余也开发成组件, 符合代码复用性, 如Title Iconwrap组件等
 
 ## 技术栈
 * vue-cli
