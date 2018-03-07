@@ -1,21 +1,46 @@
-# eleme
+<h3 align='center'>写在前面</h3>
+<p align='center'>
+项目结合了我自己的一些改动, 如果看不懂的话, 可以给我提issue或者发邮件.  
+有帮助到你的话, 不妨star, folk一下哦.最后感谢您的访问.
+</p>
 
-> A Vue.js project
+## eleme-seller
+> 基于 vue2 + vue-router3 + es6 +webpack 开发的高仿饿了么商家点餐页面
 
-## Build Setup
+## 技术栈
+* vue-cli
+* vue
+* vue-resource
+* vue-router
+* better-scroll
+* stylus
+* webpack
 
-``` bash
-# install dependencies
-npm install
+## 运行方法
+```bash
+# 方法一
+# folk本项目后
+git clone git@github.com:<你的用户名>/eleme-seller.git
 
-# serve with hot reload at localhost:8080
-npm run dev
+# 安装依赖
+npm i
 
-# build for production with minification
+# 运行在localhost:8080
+npm start
+
+# 方法二
+# folk本项目后
+git clone git@github.com:<你的用户名>/eleme-seller.git
+
+# 安装依赖
+npm i
+
+# 编译打包
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# 在dist文件夹下
+anywhere
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## eleme seller json
+> https://www.easy-mock.com/mock/5a8bbef0956ed0635799cb7f/example/elemeData
